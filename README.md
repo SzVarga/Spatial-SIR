@@ -4,7 +4,7 @@ This is a project that implements a Spatial-SIR toy model based on the implement
 
 ## Usage
 
-The project runs in the browser and can be accessed [here](https://szvarga.github.io/spatial-sir).
+The project runs in the browser and can be accessed [here](https://szvarga.github.io/Spatial-SIR).
 
 To modify the project or using it locally, follow these steps:
 
