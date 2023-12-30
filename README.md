@@ -1,6 +1,6 @@
 # Spatial-SIR
 
-This is a project that implements a Spatial-SIR toy model.
+This is a project that implements a Spatial-SIR toy model based on the implementation of the Boid class [[1]](#1) by Craig Reynolds.
 
 ## Usage
 
@@ -13,7 +13,6 @@ To modify the project or using it locally, follow these steps:
 3. Run the project on your local server.
 
 ## References
-The project is based on the implementation of the Boid class [[1]](#1) by Craig Reynolds. \
 <a id="1">[1]</a>
 Reynolds, C. W. (1987, August). \
 Flocks, herds and schools: A distributed behavioral model. \
